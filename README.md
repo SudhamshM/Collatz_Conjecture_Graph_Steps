@@ -13,8 +13,10 @@ For example, the Original using 2, we will divide by 2 to give you 1, and this t
 The Original using 3, we will multiply by 3 and add 1, it will yield 10, and it goes down to 5 by halving. Then, it goes to 16, and then 8, and then 4 and 2 and 1.
 
 Run this program to see how your Original differs and how many steps it takes.
+Check the screenshot for an example!
 
 <strong>Also, I added a plot graph if you want to see the steps your Original number takes while it is operated throughout the program.</strong>
 
+Let me know where I can improve.
 
 Thank you!

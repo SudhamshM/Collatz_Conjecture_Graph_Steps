@@ -14,6 +14,7 @@ The Original using 3, we will multiply by 3 and add 1, it will yield 10, and it 
 
 Run this program to see how your Original differs and how many steps it takes.
 Check the screenshot for an example!
+<img src="https://raw.githubusercontent.com/SudhamshM/Collatz_Conjecture_Graph_Steps/main/collatz_27_example.png"></img>
 
 <strong>Also, I added a plot graph if you want to see the steps your Original number takes while it is operated throughout the program.</strong>
 

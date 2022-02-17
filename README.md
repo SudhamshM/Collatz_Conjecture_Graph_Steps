@@ -1,6 +1,6 @@
 # Collatz_Conjecture_Graph_Steps
 
-This is my <i>first GitHub project</i>, and I saw a video by Veritasium about the Collatz Conjecture, so I wanted to write a Python program that calculates the steps it takes for a number to reach 1 using the Collatz Conjecture rules.
+This is my <i>first GitHub project</i>, and I saw a video (https://www.youtube.com/watch?v=094y1Z2wpJg) by Veritasium about the Collatz Conjecture, so I wanted to write a Python program that calculates the steps it takes for a number to reach 1 using the Collatz Conjecture rules.
 
 You start with any positve integer (the "Original" number). Check if it is even or odd.
 
